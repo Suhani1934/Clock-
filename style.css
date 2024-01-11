@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(226, 203, 171);
+}
+h1{
+    color: rgb(52, 22, 9);
+    font-size: 40px;
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-bottom:10px ;
+    font-weight: bold;
+
+
+}
+.lead{
+    color: rgb(19, 37, 13);
+    font-size: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 30px;
+}
+
+#p{
+    color: rgb(91, 61, 16) ;
+    margin-bottom:30px;
+    margin-left: 200px;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+ .my-4{
+    color: chartreuse;
+ }
